@@ -1,5 +1,8 @@
 escala_txt = 1;
 mouse_click = noone;
+qtd = 15;
+_angle = 0;
+_angle_inicio = _angle;
 
 pega_input = function()
 {

@@ -1,6 +1,8 @@
+y = ystart + sine_wave(current_time/1000, tempo, distancia);
+
 if (position_meeting(mouse_x, mouse_y, self))
 {
-    tween(self, "escala_txt", 1.5, tween_animation.back, 40);
+    tween(self, "escala_txt", 2.5, tween_animation.back, 40);
     if (!mudou)
     {
         r = irandom(255);
@@ -13,6 +15,6 @@ if (position_meeting(mouse_x, mouse_y, self))
 }
 else
 {
-    tween(self, "escala_txt", 1, tween_animation.bounce_out, 30);
+    tween(self, "escala_txt", 2, tween_animation.bounce_out, 30);
     mudou = false;
 }
