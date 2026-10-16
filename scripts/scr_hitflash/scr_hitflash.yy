@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_hitflash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_hitflash",
+  "parent":{
+    "name":"hitflash",
+    "path":"folders/Efeitos/hitflash.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

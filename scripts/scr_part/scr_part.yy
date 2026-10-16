@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_part",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_part",
+  "parent":{
+    "name":"particulas",
+    "path":"folders/Efeitos/particulas.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_tomei_dano",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_tomei_dano",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Efeitos/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
